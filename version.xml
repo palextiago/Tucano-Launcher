@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <TucanoLauncher>  
-  <version>0.5.0.0</version>
-  <url></url>
+  <Version>0.5.0.0</Version>
+  <UrlDownload>https://github.com/palextiago/Tucano-Launcher/releases/latest/download/TucanoLauncher.msi</UrlDownload>
+  <UrlSupport>https://github.com/palextiago/Tucano-Launcher/issues</UrlSupport>
 </TucanoLauncher> 
